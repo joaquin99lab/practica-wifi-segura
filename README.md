@@ -32,12 +32,12 @@ Al abrir las herramientas de desarrollador del navegador mediante `F12` y accede
 
 Entre los datos visibles se pueden identificar:
 
-* **Host:** neverssl.com
-* **URL solicitada:** http://neverssl.com/
-* **Método HTTP:** GET
-* **Protocolo:** HTTP
-* **Headers:** información enviada por el navegador al servidor.
-* **User-Agent:** información que identifica características del navegador y del sistema utilizado.
+Sitio analizado: http://neverssl.com
+Host observado: oldyoungbrightmelody.neverssl.com
+URL solicitada: http://oldyoungbrightmelody.neverssl.com/online
+Método HTTP: GET
+Protocolo: HTTP
+Código de respuesta: 307 Temporary Redirecta utilizado.
 
 Estos datos permiten conocer información relacionada con la comunicación entre el navegador y el servidor.
 

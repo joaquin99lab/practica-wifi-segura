@@ -14,7 +14,7 @@ El sitio utilizado para realizar la práctica fue:
 
 **http://neverssl.com**
 
-Este sitio utiliza deliberadamente el protocolo **HTTP**, permitiendo observar las características y los riesgos de una comunicación que no utiliza cifrado HTTPS.
+Este sitio utiliza deliberadamente el protocolo HTTP, permitiendo observar las características y los riesgos de una comunicación que no utiliza cifrado HTTPS.
 
 ### Protocolo utilizado
 
@@ -117,7 +117,7 @@ No realizar operaciones bancarias, ingresar contraseñas importantes ni transmit
 
 ### Regla 2 – Utilizar HTTPS y una VPN
 
-Comprobar que los sitios web utilicen **HTTPS** y utilizar una **VPN** cuando sea necesario conectarse desde una red pública.
+Comprobar que los sitios web utilicen HTTPS y utilizar una VPN cuando sea necesario conectarse desde una red pública.
 
 ### Regla 3 – No confiar automáticamente en una Wi-Fi pública
 
@@ -131,7 +131,7 @@ El análisis permitió comprobar las diferencias entre HTTP y HTTPS y comprender
 
 Al utilizar HTTP, determinados datos relacionados con las solicitudes pueden quedar expuestos a personas capaces de observar el tráfico de la red. Este riesgo aumenta cuando el usuario se encuentra conectado a una red Wi-Fi pública y no confiable.
 
-El uso de HTTPS permite proteger la comunicación entre el navegador y el servidor mediante cifrado. Por otro lado, una VPN agrega una capa adicional de protección al crear un **túnel cifrado** y encapsular el tráfico entre el dispositivo y el servidor VPN.
+El uso de HTTPS permite proteger la comunicación entre el navegador y el servidor mediante cifrado. Por otro lado, una VPN agrega una capa adicional de protección al crear un túnel cifrado y encapsular el tráfico entre el dispositivo y el servidor VPN.
 
 Por lo tanto, las medidas recomendadas son utilizar HTTPS, evitar introducir información sensible en sitios HTTP, utilizar una VPN en redes públicas cuando corresponda y mantener una actitud preventiva al conectarse a redes Wi-Fi desconocidas.
 

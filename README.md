@@ -41,16 +41,6 @@ Entre los datos visibles se pueden identificar:
 
 Estos datos permiten conocer información relacionada con la comunicación entre el navegador y el servidor.
 
-### Ejemplo de solicitud
-
-```http
-GET / HTTP/1.1
-Host: neverssl.com
-```
-
-La solicitud utiliza el método `GET` para solicitar el contenido de la página al servidor.
-
----
 
 ## 3. Riesgos de utilizar HTTP en una red Wi-Fi pública
 
@@ -83,7 +73,7 @@ Puede compararse con una postal: la información viaja sin estar protegida media
 
 ### HTTPS
 
-HTTPS utiliza mecanismos de **cifrado** para proteger la comunicación entre el navegador y el servidor.
+HTTPS utiliza mecanismos de cifrado para proteger la comunicación entre el navegador y el servidor.
 
 Puede compararse con una caja fuerte: aunque alguien pueda observar que existe una comunicación, el contenido está protegido mediante cifrado.
 
@@ -93,7 +83,7 @@ Por esta razón, siempre que sea posible se debe utilizar HTTPS, especialmente c
 
 ## 5. ¿Cómo ayuda una VPN?
 
-Una **VPN (Virtual Private Network)** crea un **túnel seguro y cifrado** entre el dispositivo del usuario y el servidor VPN.
+Una VPN (Virtual Private Network) crea un túnel seguro y cifrado entre el dispositivo del usuario y el servidor VPN.
 
 Cuando el usuario se conecta a una VPN, el tráfico de red se encapsula dentro de ese túnel y se transmite de forma cifrada.
 
